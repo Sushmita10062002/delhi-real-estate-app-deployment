@@ -34,3 +34,6 @@ To run this Streamlit app locally, follow these steps:
    ```bash
    streamlit run app.py
 4. Access the app in your web browser at http://localhost:8501
+
+## Model training code
+[Code](https://github.com/Sushmita10062002/Delhi-Real-Estate)
